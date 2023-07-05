@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nawaf Alzuwaymil</h1>
-<h3 align="left">Full-Stack Developer</h3>
+<h3 align="left">Full-Stack Developer Web App</h3>
 
 - 🌱 I’m currently learning **Data Engineering and Data Science**
 
-- 💬 Ask me about **Python, Django, Flask, Fast API and React**
+- 💬 Ask me about **Python, Django, Flask, Fast API and React js**
 
 - 📫 How to reach me **nawafalzuwaymil@gmail.com**
 
