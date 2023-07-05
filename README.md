@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nawaf Alzuwaymil</h1>
-<h3 align="left">Full-Stack Developer Web App</h3>
+<h3 align="left">Full-Stack Web App Developer</h3>
 
 - 🌱 I’m currently learning **Data Engineering and Data Science**
 
