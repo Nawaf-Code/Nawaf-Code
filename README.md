@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Engineering and Data Science**
 
-- 💬 Ask me about **Python, Django, Flask, Fast API and React js**
+- 💬 Ask me about **Python, Django, Flask, Data Science, Fast API and React js**
 
 - 📫 How to reach me **nawafalzuwaymil@gmail.com**
 
