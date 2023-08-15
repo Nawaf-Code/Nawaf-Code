@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Graduation Projects Management System**
 
-- 🌱 I’m currently learning **Data Engineering and Reac JS**
+- 🌱 I’m currently learning **Data Engineering and React Native**
 
 - 💬 Ask me about **Python, Django, Flask, Data Science, Fast API and Web Scraping**
 
