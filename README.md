@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Engineering and React Native**
 
-- 💬 Ask me about **Python, Django, Flask, Data Science, Fast API and Web Scraping**
+- 💬 Ask me about **Python, Django, Flask, Data Science, Fast API, Web Scraping and React JS**
 
 - 📫 How to reach me **nawafalzuwaymil@gmail.com**
 
