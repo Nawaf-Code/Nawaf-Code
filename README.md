@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nawaf Alzuwaymil</h1>
+ <h1 align="center">Hi 👋, I'm Nawaf Alzuwaymil</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-- 🔭 I’m currently working on **Graduation Projects Management System**
+- 🔭 I’m currently working on **Graduation Projects Management System Project**
 
 - 🌱 I’m currently learning **Data Engineering and React Native**
 
