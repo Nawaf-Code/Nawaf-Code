@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NLP**
 
-- 💬 Ask me about **Python, Django, Flask, Data Science, Fast API, Machine Learning, Web Scraping and React JS**
+- 💬 Ask me about **Python, Django, Flask, Data Science, FastAPI, Machine Learning, Web Scraping and React.JS**
 
 - 📫 How to reach me **nawafalzuwaymil@gmail.com**
 
