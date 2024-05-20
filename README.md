@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Graduation Projects Management System Project**
 
-- 🌱 I’m currently learning **NLP and LLM's**
+- 🌱 I’m currently learning **NLP and LLMs**
 
 - 💬 Ask me about **Python, Django, Flask, Data Science, FastAPI, Machine Learning, Web Scraping and React.JS**
 
