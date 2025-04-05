@@ -1,11 +1,11 @@
  <h1 align="center">Hi 👋, I'm Nawaf Alzuwaymil</h1>
 <h3 align="center">AI Software Engineer</h3>
 
-- 🔭 I’m currently working on **Graduation Projects Management System Project**
+- 🔭 I’m currently working on **Deep Learning and NLP Projects**
 
-- 🌱 I’m currently learning **NLP and LLMs**
+- 🌱 I’m currently learning **Generative AI and LLMs**
 
-- 💬 Ask me about **Python, Django, Flask, Data Science, FastAPI, Machine Learning, Web Scraping and React.JS**
+- 💬 Ask me about **Python, Data Science, FastAPI, Machine Learning, Deep Learning, NLP, Web Scraping and React.JS**
 
 - 📫 How to reach me **nawafalzuwaymil@gmail.com**
 
